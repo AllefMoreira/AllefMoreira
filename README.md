@@ -16,21 +16,15 @@
 Front-end: 
     <div>
     <img style="border-radius:10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-    <br/>
     <img style="border-radius:10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-    <br/>
     <img style="border-radius:10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-    <br/>
     <img style="border-radius:10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     </div>
     
   Data Base:
   <div>
     <img style="border-radius:10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-    <br/>
     <img style="border-radius:10px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
-    <br/>
     <img style="border-radius:10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
-    <br/>
     </div>
 
