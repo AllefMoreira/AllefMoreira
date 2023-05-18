@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hello!👋 How are you?😀
+ 
+### My name is Allef, I have 20 years old,
+### And I 
+- currently study Computer Science at Unip
+- working at SMARapd LTDA as a junior support analyst 
+- study English at Wizard 
+- study programming on various websites on the internet, such as Danki Code and Udemy
 
-<!--
-**AllefMoreira/AllefMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Allef's GitHub stats](https://github-readme-stats.vercel.app/api?username=allefmoreira&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Linkedin:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allef-moreira-7b99b01b6/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I like to use
+Front-end: 
+    <div>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+    <br/>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+    <br/>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+    <br/>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </div>
+    
+  Data Base:
+  <div>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <br/>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
+    <br/>
+    <img style="border-radius:10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
+    <br/>
+    </div>
+
