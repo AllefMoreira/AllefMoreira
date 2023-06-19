@@ -7,8 +7,6 @@
 - study English at Wizard 
 - study programming on various websites on the internet, such as Danki Code and Udemy
 
-![Allef's GitHub stats](https://github-readme-stats.vercel.app/api?username=allefmoreira&show_icons=true&theme=radical)
-
 ### Linkedin:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allef-moreira-7b99b01b6/)
 
