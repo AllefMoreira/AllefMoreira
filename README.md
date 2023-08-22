@@ -11,9 +11,6 @@
 - Study programming on various websites on the internet, such as Danki Code and Udemy 
 </strong>
 
-## Linkedin:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allef-moreira-7b99b01b6/)
-
 ## Skills
 ### Front-end: 
 <div>
@@ -38,3 +35,5 @@
 ## Status:
 [![GitHub Streak](https://streak-stats.demolab.com?user=allefmoreira&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+## Linkedin:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allef-moreira-7b99b01b6/)
