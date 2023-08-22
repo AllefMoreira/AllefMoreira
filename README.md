@@ -4,6 +4,7 @@
 ### And I...
 
 <strong>
+ 
 - Currently study Computer Science at Unip
 - Working at SMARapd LTDA as a junior support analyst 
 - Study English at Wizard 
