@@ -21,7 +21,7 @@ Front-end:
 
 Back-end:
    <div>
-   <img style="border-radius:10px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+   <img style="border-radius:10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
    </div>    
     
 Data Base:
