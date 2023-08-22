@@ -1,7 +1,7 @@
 ## Hello!👋 How are you?😀
  
 ### My name is Allef, I have 20 years old,
-### And I 
+### And I...
 - currently study Computer Science at Unip
 - working at SMARapd LTDA as a junior support analyst 
 - study English at Wizard 
@@ -10,7 +10,7 @@
 ### Linkedin:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allef-moreira-7b99b01b6/)
 
-## I like to use
+## Skills
 Front-end: 
     <div>
     <img style="border-radius:10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
